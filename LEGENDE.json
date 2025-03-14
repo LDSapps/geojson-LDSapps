@@ -1,17 +1,17 @@
 {
-  "UPRA PORCINE": "#800080",      // Violet foncé
-  "PODIUM": "#FFD700",           // Or
-  "ARTISANAT": "#FF5733",        // Orange clair
-  "COMMERCE DIVERS": "#2196F3",  // Bleu clair
-  "INDUSTRIEL": "#9E9E9E",      // Gris
-  "COMITE": "#4CAF50",           // Vert
-  "DISPONIBLE": "#008000",       // Vert foncé
-  "FARE": "#8B4513",             // Marron
-  "AVICULTURE": "#1E90FF",       // Bleu vif
-  "ALIMENTAIRE": "#FFC107",      // Jaune orangé
-  "AGRICOLE": "#32CD32",         // Vert vif
-  "AUTRE": "#607D8B",            // Gris bleu
-  "RESTORATION": "#FF9800",      // Orange
-  "POLE INSTITUTION": "#E91E63", // Rouge rose
-  "FORRAIN": "#DC143C"            // Rouge cramoisi
+  "UPRA PORCINE": "#800080",
+  "PODIUM": "#FFD700",
+  "ARTISANAT": "#FF5733",
+  "COMMERCE DIVERS": "#2196F3",
+  "INDUSTRIEL": "#9E9E9E",
+  "COMITE": "#4CAF50",
+  "DISPONIBLE": "#008000",
+  "FARE": "#8B4513",
+  "AVICULTURE": "#1E90FF",
+  "ALIMENTAIRE": "#FFC107",
+  "AGRICOLE": "#32CD32",
+  "AUTRE": "#607D8B",
+  "RESTORATION": "#FF9800",
+  "POLE INSTITUTION": "#E91E63",
+  "FORRAIN": "#DC143C"
 }
